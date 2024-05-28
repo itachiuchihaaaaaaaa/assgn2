@@ -1,0 +1,34 @@
+.id{
+    font-size: x-large;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.id1{
+    background-image: url(https://www.bing.com/th/id/OIP.khB7mYDhxl-GBTasq8jdgQHaEo?w=306&h=191&c=7&r=0&o=5&pid=1.7);
+    background-size: 1500px;
+}
+
+.id3{
+      margin-top: 8%;
+      margin-left: 20%;
+      margin-right: 20%;
+      border: solid black;
+      color: blue;
+}
+.id4{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.id5{
+    padding-left: 40%;
+}
+.id6{
+    background-image: url(https://th.bing.com/th/id/OIP.JRE3ZGj58ZPQShbvEq9leAHaEK?w=300&h=184&c=7&r=0&o=5&pid=1.7);
+    background-size: 1500px;
+}
